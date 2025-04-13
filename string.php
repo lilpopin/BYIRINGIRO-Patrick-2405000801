@@ -10,7 +10,7 @@ echo strtolower($sentence);
 echo strtoupper($sentence);
 echo str_replace ("Book", "College",$sentence);
  echo strlen("$sentence");
- echo $sentence [5]="5"
+ echo $sentence [4];
 ?> 
 
 </body>
